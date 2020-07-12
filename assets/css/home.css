@@ -1,0 +1,37 @@
+.container{
+    width: 60%;
+    margin: auto;
+}
+.contacts-list-container{
+    background-color: blue;
+}
+.contact-item{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    margin: 5px;
+    border: 1px solid blue;
+    list-style: none;
+}
+.contact-item li{
+    width: 90%;
+ 
+}
+.contact-item li p{
+    border: 2px solid  ;
+    padding: 25px;
+    margin: 5px;
+    background-color: blue;
+    color: white;
+}
+.delete-button img{
+    height: 25px;
+    width: 25px;
+}
+
+form{
+    width: 60%;
+    margin: auto;
+    display: flex;
+    padding: 2px;
+}
